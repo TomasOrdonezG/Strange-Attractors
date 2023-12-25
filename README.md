@@ -12,12 +12,12 @@
 # Attractors
 | Number key | Attractor name |
 | ------- | ----------- |
-| 1 | Lorenz Attractor |
-| 2 | Banlue Attractor |
-| 3 | Halvorsen Attractor |
-| 4 | Aizawa Attractor |
-| 5 | Lu Chen Attractor |
-| 6 | Genesio Attractor |
+| 1 | Lorenz  |
+| 2 | Banlue  |
+| 3 | Halvorsen  |
+| 4 | Aizawa  |
+| 5 | Lu Chen  |
+| 6 | Genesio  |
 
 # General Settings
 Key `S` to open/close.
@@ -33,5 +33,5 @@ Key `S` to open/close.
 # Colour settings
 Key `C` to open/close.
 
-Three sections controlling the red, green, blue, and alpha channels. Each section contains a left and right slider, the left sliders control the channels of the left end (tail) of the gradient, and the right sliders control the channels of the right end (head) of the gradient. On the top you can see a preview of what the gradient will look like on the trail. Press `C` again to close the colour settings.
+Four sections controlling the red, green, blue, and alpha channels. Each section contains a left and right slider, the left sliders control the channels of the left end (tail) of the gradient, and the right sliders control the channels of the right end (head) of the gradient. On the top you can see a preview of what the gradient will look like on the trail. Press `C` again to close the colour settings.
 
